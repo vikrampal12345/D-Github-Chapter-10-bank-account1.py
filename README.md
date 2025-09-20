@@ -17,4 +17,5 @@ Users can check balance, deposit money, and withdraw money.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://vikrampal12345/bank account1-Project.git
+ 
+https://github.com/vikrampal12345/D-Github-Chapter-10-bank-account1.py
